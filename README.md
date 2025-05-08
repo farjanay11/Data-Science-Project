@@ -1,5 +1,5 @@
 
-# Data Science Course Project  
+# Data Science Project  
 ### Topic Modeling for Customer Review Analysis  
 **Course**: Introduction to Data Science  
 **Semester**: Fall 2024–2025  
