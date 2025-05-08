@@ -64,8 +64,4 @@ This project applies **Latent Dirichlet Allocation (LDA)** for topic modeling on
 
 ---
 
-## Contact
-
-For questions or feedback, please contact:  
-**Group 02 Members** – {22-47018-1, 22-47019-1, 22-47035-1}@student.aiub.edu
 
