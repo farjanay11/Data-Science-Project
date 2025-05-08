@@ -1,6 +1,6 @@
 
 # Data Science Course Project  
-### Group 02 – Topic Modeling for Customer Review Analysis  
+### Topic Modeling for Customer Review Analysis  
 **Course**: Introduction to Data Science  
 **Semester**: Fall 2024–2025  
 **Group Members**:
